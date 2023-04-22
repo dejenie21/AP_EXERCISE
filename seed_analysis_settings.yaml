@@ -1,0 +1,5 @@
+---
+ fasta_file: '/Users/simonray/DropboxUiO/myTeaching/BINF_M612/day6/data/mirna_test.fa'
+ species_code: 'hsa'
+ seed_begin: 2
+ seed_end: 8
